@@ -1,10 +1,11 @@
 
-## Code for Law
-![Logo](https://s3-ap-northeast-1.amazonaws.com/mizukisonoko/ML.png)  
-
+# Code for Law
+![Logo](https://s3-ap-northeast-1.amazonaws.com/mizukisonoko/MLlogo.png)  
+  
 ## Concept
 ```
-法律 == Code
+if(法律 == Code){ 
+    ...
 ```
 
 ## Sample
