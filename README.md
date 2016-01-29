@@ -1,6 +1,14 @@
 
-## Sample
+## Code for Law
+![Logo](https://s3-ap-northeast-1.amazonaws.com/mizukisonoko/ML.png)  
 
+## Concept
+```
+法律 == Code
+```
+
+## Sample
+  
 ### Status
 ```
 運転者(甲,車両).
